@@ -1,4 +1,7 @@
-var d; //elapsed time in days
+var elapsedTimeInDays;
+var daysSinceCreation;
+var daysSinceModification;
+var fileAgeInDays;
 
 function getThem(list) {
   var list1 = [];
