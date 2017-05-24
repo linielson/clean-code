@@ -1,2 +1,2 @@
-var nameString = "Linielson";
-var ageInt = 29;
+var name = "Linielson";
+var age = 29;
