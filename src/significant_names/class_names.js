@@ -1,9 +1,7 @@
-class Manager { }
+class Customer { }
 
-class Service { }
+class WikiPage { }
 
-class Processor { }
+class Account { }
 
-class Data { }
-
-class Info { }
+class AddressParser { }
