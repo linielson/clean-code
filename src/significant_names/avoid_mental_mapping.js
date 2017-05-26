@@ -1,6 +1,6 @@
-var a;
-var b;
-var c;
+var beer;
+var barbecue;
+var bacon;
 
 var numberOfProducts = 10;
 
