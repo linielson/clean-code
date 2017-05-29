@@ -4,8 +4,9 @@ function name() {
   return person_name;
 }
 
-function name(name){
+function setName(name){
   person_name = name;
 }
 
-var last_name = new Person("Linielson", "Rosa");
+var person = new Person("Linielson", "Rosa");
+var last_name = person.lastName();
