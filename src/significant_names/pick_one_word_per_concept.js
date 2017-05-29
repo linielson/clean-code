@@ -1,14 +1,11 @@
-class DeviceManager {
-  function fetch() {
-  }
+class DeviceController {
+  function get() { }
 }
 
 class  ProtocolController {
-  function retrieve() {
-  }
+  function get() { }
 }
 
-class  ProtocolDriver {
-  function get() {
-  }
+class  DriveController {
+  function get() { }
 }
