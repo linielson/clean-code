@@ -1,5 +1,5 @@
-function holyHandGrenade() { }
+function deleteItems() { }
 
-function whack() { }
+function kill() { }
 
-function eatMyShorts() { }
+function abort() { }
