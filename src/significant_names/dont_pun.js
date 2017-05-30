@@ -7,7 +7,7 @@ var ArrayExample = function() {
 
 var MathExample = function() {
   var price;
-  function add(increase) {
-    return price + increase;
+  function increasePrice(value) {
+    return price + value;
   }
 };
