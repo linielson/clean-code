@@ -1,11 +1,10 @@
 var GasStationDeluxe = function() {
-  var GSDAccountAddress = function() {
-    var GSDMailingAddress = function() {
-      var gsdMail;
+  var Address = function() {
+    var Mailing = function() {
+      var mail;
     };
   };
+
+  var accountAdress = new Adress();
+  var customerAdress = new Adress();
 };
-
-var AccountAdress = function() { };
-
-var CustomerAdress = function() { };
